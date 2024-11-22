@@ -2,7 +2,7 @@ import React from "react";
 
 const Aboutme = () => {
   return (
-    <div className="bg-[#f0dccb] p-5 flex flex-col gap-4 sm:p-10">
+    <div className="bg-[#f0dccb] p-5 flex flex-col gap-4 sm:p-10 lg:px-14">
       <div className="md:flex ">
         <div className="md:w-1/2 self-center">
           <p className="text-2xl 3xs:text-3xl font-bold whitespace-nowrap text-[#252525]">
