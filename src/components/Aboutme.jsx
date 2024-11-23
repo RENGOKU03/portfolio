@@ -19,9 +19,11 @@ const Aboutme = () => {
             <button className="text-[#4E5E80] px-3 py-2 rounded-md font-bold  border-2 border-[#4D5566]">
               Contact Me
             </button>
-            <button className="text-[#4E5E80] px-3 py-2 rounded-md font-bold  border-2 border-[#4D5566]">
-              Downlod Resume
-            </button>
+            <a href="./chetanresume.pdf" download={"chetanresusme.png"}>
+              <button className="text-[#4E5E80] px-3 py-2 rounded-md font-bold  border-2 border-[#4D5566]">
+                Downlod Resume
+              </button>
+            </a>
           </div>
         </div>
         <div className="flex justify-center md:w-1/2">
