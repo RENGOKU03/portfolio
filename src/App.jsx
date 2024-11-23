@@ -74,9 +74,9 @@ function App() {
       <div ref={aboutRef}>
         <Aboutme />
       </div>
-      <disv ref={contactRef}>
+      <div ref={contactRef}>
         <WorkTogether />
-      </disv>
+      </div>
     </>
   );
 }
